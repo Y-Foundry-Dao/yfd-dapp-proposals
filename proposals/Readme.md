@@ -7,4 +7,4 @@
 
 |  Name   |     |   Chain ID | 
 |---------|:-------:|-------:|
-| Terrra Testnet | test | [Pisco-1](https://github.com/Y-Foundry-Dao/yfd-dapp-proposals/tree/main/proposals/pisco-1/) |
+| Terrra Testnet |  | [Pisco-1](https://github.com/Y-Foundry-Dao/yfd-dapp-proposals/tree/main/proposals/pisco-1/) |
