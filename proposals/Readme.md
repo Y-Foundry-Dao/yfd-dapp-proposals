@@ -4,5 +4,7 @@
 
 ### Testnet Deployments
 
-|:---------|:-------|:-------|
-| Terrra Testnet | test | Pisco-1 |
+
+|  Name   |     |   Chain ID | 
+|---------|:-------:|-------:|
+| Terrra Testnet | test | [Pisco-1](https://github.com/Y-Foundry-Dao/yfd-dapp-proposals/tree/main/proposals/pisco-1/) |
